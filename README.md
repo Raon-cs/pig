@@ -10,6 +10,6 @@
 # 학습한 가중치 활용 모델 테스트
 1. 사용할 가중치 설정(--weights /파일경로/가중치이름.pt), 정확도 설정(--confg 0.x), 테스트 이미지 경로 설정(--source 이미지경), txt파일 저장(--save-txt)
 
-#yolo txt파일 json으로 변환
+# yolo txt파일 json으로 변환
 1. logging라이브러리 및 importer 활용(변환할 이미지 및 txt파일 경로 설정, yoloclasses(라벨링명) 설정
 2. 변환된 json 파일 저장
