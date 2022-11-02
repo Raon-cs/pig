@@ -3,12 +3,9 @@
 
 2. 라벨링명 변경(1번에서 변환시 라벨링명이 제대로 수행되었을시 미실시해도 가능)
 
-# yolo활용 가중치 학습
-1.yolo test code 활용 가중치 학습
-
- 1-1) 사용할 기본 가중치 선정(yolov7-tiny.pt(small), yolov7.pt(medium), yolov7-e6e.pt(large)
- 
- 1-2) batch_size, epochs, data 선택
+# yolo활용 가중치 학습(yolo test code)
+1. 사용할 기본 가중치 선정(yolov7-tiny.pt(small), yolov7.pt(medium), yolov7-e6e.pt(large)
+2. batch_size, epochs, data등 필요사항 입
  
  
 # 학습한 가중치 활용 모델 테스트
