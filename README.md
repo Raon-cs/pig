@@ -63,9 +63,9 @@
 
 ### 성능평가 및 테스트 결과정리
 - 성능평가 그래프
-![성능평가](https://github.com/Raon-cs/pig/assets/108639467/a90a8b36-ec7f-4282-98ba-161fd310561e)
+ -![성능평가](https://github.com/Raon-cs/pig/assets/108639467/a90a8b36-ec7f-4282-98ba-161fd310561e)
 
 <br/>
 
 - 테스트 결과정리
-![테스트 결과정리](https://github.com/Raon-cs/pig/assets/108639467/c4c2c998-f639-48e6-a970-d995af8360c7)
+ - ![테스트 결과정리](https://github.com/Raon-cs/pig/assets/108639467/c4c2c998-f639-48e6-a970-d995af8360c7)
